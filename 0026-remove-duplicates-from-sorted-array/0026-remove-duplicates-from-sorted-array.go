@@ -11,3 +11,4 @@ for i := count; i < len(nums); i++{
 }
    return count
 }
+// memory O(1); time: O(n)
