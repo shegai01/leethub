@@ -10,4 +10,4 @@ func twoSum(nums []int, target int) []int {
     }
     return []int{}
 }
-//Memory: 6.11 MB, Beats: 11.06%
+// memory: O(n), time compl : O(n)
