@@ -25,7 +25,4 @@ func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
     }
     return node.Next
 }
-//4.32
-//MB
-//Beats
-//83.66%
+//Memory: 4.32MB, Beats: 83.66%
