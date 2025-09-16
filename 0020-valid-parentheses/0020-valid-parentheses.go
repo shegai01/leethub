@@ -18,3 +18,4 @@ func isValid(s string) bool {
     }
     return len(stack) == 0
 }
+//memory: 4.21 MB, Beats: 43.26%
