@@ -11,3 +11,4 @@ func removeElement(nums []int, val int) int {
     }
     return count
 }
+//Memory: 3.97 MB, Beats: 99.43%
