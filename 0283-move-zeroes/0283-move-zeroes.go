@@ -10,3 +10,4 @@ func moveZeroes(nums []int)  {
         }
     }
 }
+// memory: O(1); time O(n)
