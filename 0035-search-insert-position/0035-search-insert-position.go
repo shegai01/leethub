@@ -12,3 +12,4 @@ func searchInsert(nums []int, target int) int {
     }
     return left
 }
+// memory: O(1) time O(logn)
