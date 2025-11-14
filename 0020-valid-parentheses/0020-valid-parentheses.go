@@ -18,4 +18,3 @@ func isValid(s string) bool {
     }
     return len(stack) == 0
 }
-//memory: O(n) , time: O(n)
