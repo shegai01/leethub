@@ -1,0 +1,14 @@
+func removeDuplicates(nums []int) int {
+if len(nums) ==0 {
+    return 0
+}
+count  := 1
+for i := count; i < len(nums); i++{
+    if nums[i] != nums[i-1]{
+        nums[count] = nums[i]
+        count++
+    }
+}
+   return count
+}
+// memory O(1); time: O(n)
